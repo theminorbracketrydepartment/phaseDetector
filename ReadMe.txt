@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 module myModule (A,B)good edit;
 
 	input wire A;
