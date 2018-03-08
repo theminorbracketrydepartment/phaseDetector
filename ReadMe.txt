@@ -1,4 +1,4 @@
-module myModule (A,B)good edit;
+module myModule (A,B);
 
 	input wire A;
 	input wire B;
