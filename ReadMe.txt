@@ -1,4 +1,4 @@
-module myModule (A,B);
+module myModule (A,B)good edit;
 	input wire A;
 	input wire B;
 	assign B = !A;
